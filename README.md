@@ -3,7 +3,7 @@
 <p align="center">System Analyst in training | Passionate about technology and software development</p>
 
 <h3 align="left"><b>Hello everyone 👋</b></h3>
-<p align="left">I am currently finishing my associate's degree in Systems Analysis, where I have built a solid foundation in logic, development methodologies, and project management. In addition to my academic training, I have developed a strong self-taught approach, dedicating myself to independently exploring and researching different technologies and programming languages to stay up to date with industry trends on a daily basis.<br><br>I have set as a strategic goal the development of projects using various tools to expand my technical expertise. Therefore, I will use this space as an active documentation platform for my progress, where I will record my specialization and evolution until I establish myself as a well-rounded and versatile programmer.</p>
+<p align="left">I am currently finishing my associate's degree in Systems Analysis, where I have built a solid foundation in logic, development methodologies, and project management. In addition to my academic training, I have developed a strong self-taught approach, dedicating myself to independently exploring and researching different technologies and programming languages to stay up to date with industry trends on a daily basis.<br><br>I have set as a strategic goal the development of projects using various tools to expand my technical expertise. Therefore, I will use this space as an active documentation platform for my progress, where I will record my specialization and evolution until I establish myself as a complete and versatile programmer.</p>
 
 <h3 align="left"><b>Language and tools 🧰</b></h3>
 
